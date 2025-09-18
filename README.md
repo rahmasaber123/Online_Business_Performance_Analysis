@@ -5,7 +5,7 @@ Includes **feature engineering, time-series analysis, and actionable business in
 
 ---
 
-## 📊 Project Overview  
+##  Project Overview  
 This project explores an **online business sales dataset** with features related to customers, products, pricing, and transactions.  
 It applies **data cleaning, feature engineering, exploratory analysis, and visualization** to uncover patterns and provide **strategic recommendations**.  
 
@@ -50,11 +50,11 @@ It applies **data cleaning, feature engineering, exploratory analysis, and visua
 - 💰 Profit margins were impacted by **discount levels**, showing a trade-off between volume and profitability.  
 
 ### Customer Behavior  
-- 👨 Male customers contributed slightly more revenue than females.  
-- 🎯 Age group **30–40 years** was the most active in purchases.  
+-  Male customers contributed slightly more revenue than females.  
+-  Age group **30–40 years** was the most active in purchases.  
 
 ### Product Performance  
-- 🏆 Certain **categories and product types** consistently drove higher profits.  
+-  Certain **categories and product types** consistently drove higher profits.  
 - 📉 Some low-margin products dragged overall profitability despite high sales volume.  
 
 ### Discounts & Profitability  
@@ -62,7 +62,7 @@ It applies **data cleaning, feature engineering, exploratory analysis, and visua
 - Moderate, well-targeted discounts performed better in balancing **revenue growth** and **profitability**.  
 
 ### Regional & Seasonal Insights  
-- 🌎 Specific regions (e.g., Pennsylvania) contributed steadily to revenue.  
+-  Specific regions (e.g., Pennsylvania) contributed steadily to revenue.  
 - 🌸 Seasonal impact was limited, though some months showed **spikes in demand** (possibly promotions).  
 - 📅 Weekdays consistently outperformed weekends in sales.  
 
@@ -81,21 +81,19 @@ It applies **data cleaning, feature engineering, exploratory analysis, and visua
 
 Here are some of the plots used in the analysis (replace with actual charts):  
 
-- **Monthly Revenue & Profit Trends**  
-  ![Monthly Revenue](images/monthly_revenue.png)  
-  ![Monthly Profit](images/monthly_profit.png)  
+- **Monthly Revenue **  
+  ![Monthly Revenue](https://github.com/rahmasaber123/Online_Business_Performance_Analysis/blob/main/Month_Revenue.png?raw=true)  
+   
 
-- **Revenue by Product Category**  
-  ![Top Categories](images/top_categories.png)  
+- **Top Shipment Providers by Revenue**  
+  ![Top Shipment Providers by Revenue](https://github.com/rahmasaber123/Online_Business_Performance_Analysis/blob/main/shipment_reveneu.png?raw=true)  
 
 - **Profit Margin by Discount Level**  
-  ![Profit vs Discount](images/profit_discount.png)  
-
-- **Customer Age vs Sale Price (Hexbin)**  
-  ![Age vs Sale Price](images/age_vs_sale_price.png)  
-
-- **Regional Performance**  
-  ![Regional Revenue](images/regional_revenue.png)  
+  ![Profit vs Discount](https://github.com/rahmasaber123/Online_Business_Performance_Analysis/blob/main/Revenue_Discount.png?raw=true)
+  
+- **Top 20 Products by Revenue**
+-  ![Top 20 Products by Revenue](https://github.com/rahmasaber123/Online_Business_Performance_Analysis/blob/main/Top_Products_Revenue.png?raw=true)
+  
 
 ---
 
